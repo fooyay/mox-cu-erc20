@@ -1,6 +1,6 @@
-# Moccasin Project
+# ERC20 Project
 
-🐍 Welcome to your Moccasin project!
+🐍 Welcome! Here, I'm making an ERC20 token using Vyper.
 
 ## Quickstart
 
