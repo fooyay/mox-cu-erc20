@@ -1,9 +1,12 @@
 from script.deploy import deploy, INITIAL_SUPPLY
+
+
 import boa
 
+
+
+
 RANDOM_USER = boa.env.generate_address("random_user")
-
-
 def test_deploy_token():
     monkey_token = deploy()
 
